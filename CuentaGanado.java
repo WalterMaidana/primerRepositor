@@ -15,7 +15,7 @@ public class CuentaGanado
 	}
 	public void resetearCuenta ()
 	{
-		cantidad=0;
+	  cantidad=0;
 	}
 
 }
